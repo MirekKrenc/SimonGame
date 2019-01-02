@@ -3,6 +3,9 @@ body {
   background-color: #011F3F;
 }
 
+.title {
+  height:200px;
+}
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
